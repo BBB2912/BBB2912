@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahendra Kumar Reddy Kakarla</h1>
 <h3 align="center">Software Engineer @ TCS</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bbb2912&label=Profile%20views&color=0e75b6&style=flat" alt="bbb2912" />
-  <a href="https://linkedin.com/in/mahireddy-kakarla"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mahendrakumarreddykakarla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/BBB2912/BBB2912/)"><img src="[https://github-profile-trophy.vercel.app/?username=bbb2912](https://github.com/BBB2912/BBB2912/)" alt="bbb2912" /></a>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bbb2912&label=Profile%20views&color=0e75b6&style=flat" alt="bbb2912" /> <a href="https://linkedin.com/in/mahireddy-kakarla"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:mahendrakumarreddykakarla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbb2912" alt="bbb2912" /></a> </p>
 
 ---
 
