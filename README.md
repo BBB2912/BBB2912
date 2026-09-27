@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bbb2912" alt="bbb2912" /></a>
+  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/BBB2912/BBB2912/)"><img src="[https://github-profile-trophy.vercel.app/?username=bbb2912](https://github.com/BBB2912/BBB2912/)" alt="bbb2912" /></a>
 </p>
 
 ---
@@ -16,11 +16,10 @@
 ### 🚀 About Me
 
 - 💼 Currently working at **Tata Consultancy Services (TCS)**, onboarded onto a major **global financial services & insurance program** after completing the **Initial Learning Program (ILP)** at TCS Peepul Park, Trivandrum — where my team was recognized as the **'Blue Cap Team'** among 10 teams for consistent performance and collaboration.
-- 🏅 **Claude Certified Architect – Professional** (956/1000) and **Claude Certified Developer – Foundations** (911/1000) — certified by Anthropic, validating skills in building and architecting production-grade applications with Claude.
+- 🏅 **Claude Certified Architect – Professional** (956/1000) and **Claude Certified Developer – Foundations** (955/1000) — certified by Anthropic, validating skills in building and architecting production-grade applications with Claude.
 - 🌱 Currently deepening my skills in **Generative AI** and **Unity Game Development**.
 - 👨‍💻 All of my projects are showcased at **[my portfolio](https://bbb2912.github.io/myportfolio/)**.
 - 📫 Reach me at **mahendrakumarreddykakarla@gmail.com**.
-- ⚡ Fun fact: I enjoy solving DSA problems on LeetCode and creating tech content on YouTube.
 
 ---
 
@@ -29,7 +28,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Claude%20Certified%20Architect-Professional%20(956%2F1000)-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Claude%20Certified%20Developer-Foundations%20(911%2F1000)-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Certified%20Developer-Foundations%20(955%2F1000)-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
